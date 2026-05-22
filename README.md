@@ -55,12 +55,7 @@ __首先说一句，本作业展板是为了方便我们班布置作业开发的
 
 ## 4.安装包下载
 
-​	请前往右侧Release界面下载。如果网速太慢无法下载或镜像站断连，这里提供国内网盘分流下载：
-
-- 百度网盘:                [点击跳转(提取码：HMVR)](https://pan.baidu.com/s/1TV1pfbkBc7SOnihFnfX2AA?pwd=HMVR)
-- 123网盘:                 [点击跳转(提取码：HMVR)](https://www.123912.com/s/iNAgTd-9PD23?pwd=HMVR#)
-- Huang1111网盘:     [点击跳转(提取码：HMVR)](https://pan.huang1111.cn/s/jRAldIy)
-
+​	请前往右侧Release界面下载。
 
 ## 5.鸣谢名单
 
